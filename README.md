@@ -43,10 +43,8 @@ int main() {
 
 
 ## OUTPUT
-Enter the principal amount: 500000
-Enter the annual interest rate (in percentage): 7.5
-Enter the loan tenure (in months): 36
-The EMI is: 15477.07
+![image](https://github.com/user-attachments/assets/01cc043c-c62c-4d3d-a453-3198ea51ced6)
+
 
 
 
@@ -99,9 +97,7 @@ int main() {
 }
 
 ## OUTPUT
-
-Fibonacci series up to 6 terms: 
-0 1 1 2 3 5 
+![image](https://github.com/user-attachments/assets/dcbf72e3-6ce0-4d8a-ba8a-e47e95d093ac)
 
 
 ## RESULT
@@ -136,9 +132,8 @@ int main() {
 }
 
 ## OUTPUT
-5
-10 20 30 40 50
-50
+![image](https://github.com/user-attachments/assets/907a7ccc-ac0a-4adf-91b7-b3d58aea4261)
+
 
 
 ## RESULT
@@ -179,8 +174,7 @@ int main() {
 }
 
 ## OUTPUT
-5 1 -3 4 0 2
- 3
+![image](https://github.com/user-attachments/assets/07cfdd9e-6a0b-4c97-a2b8-2f1ccf86f75f)
 
 
 
@@ -238,7 +232,8 @@ int main() {
 
 ## Output:
  
-Modified Array: 1 E 3 E 5 E 7 E 
+![image](https://github.com/user-attachments/assets/89a64dcf-000b-4cad-8a16-ec79f14ef6cf)
+
 
 
 ## Result:
